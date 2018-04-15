@@ -10,7 +10,6 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require rails-ujs
 //= require plugins/jquery-2.2.4.min
 //= require plugins/jquery.easing.min
 //= require bootstrap/js/bootstrap.min
@@ -24,4 +23,3 @@
 //= require plugins/sscr
 //= require mail/contact
 //= require js/default
-//= require_tree .
